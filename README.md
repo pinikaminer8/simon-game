@@ -12,6 +12,5 @@ Welcome to the Color Pattern Game! This is a simple JavaScript-based game where 
 
 Have fun and test your memory and reflexes!
 
-Disclaimer
 
 **Disclaimer:** The CSS file used in this project was not created by me. It was written by another person.
