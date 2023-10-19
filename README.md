@@ -1,6 +1,7 @@
 # Color Pattern Game
 
 Welcome to the Color Pattern Game! This is a simple JavaScript-based game where you can test your memory by repeating color patterns.
+I did this project as part of The Complete 2023 Web Development Bootcamp by Dr. Angela Yu
 
 ## How to Play
 
