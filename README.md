@@ -14,4 +14,4 @@ I did this project as part of The Complete 2023 Web Development Bootcamp by Dr. 
 Have fun and test your memory and reflexes!
 
 
-**Disclaimer:** The CSS file used in this project was not created by me. It was written by another person.
+**Disclaimer:** The CSS file used in this project was not created by me.
